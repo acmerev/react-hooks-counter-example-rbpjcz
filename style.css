@@ -1,0 +1,10 @@
+h1,
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  background: red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+}
