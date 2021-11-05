@@ -6,7 +6,7 @@ function Counter() {
   const [counter, setCounter] = useState(5);
 
   function increment() {
-    setCounter(counter+1);
+    setCounter(counter+2);
   }
   return <div>
   <p>{counter}</p>
